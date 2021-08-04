@@ -28,7 +28,7 @@ html{
     width: 190px;
     display: inline-block;
     text-align: center;
-    transition: all . 3s;
+    transition: all  3s;
 }
 .btna:hover,
 .btna:active{
@@ -64,11 +64,10 @@ h1,h2{
     margin-top: 50px;
 }
 header{
-
-    background-image:linear-gradient(to right top,rgba(2,33,64,0.85),rgba(45,95,93,0.8)) ,url("../img/a900x774.jpg");
-    /*background-size: cover;*/
-    background-attachment: fixed ;
-    height: 450px;
+    background-image: linear-gradient(to right top,rgb(242 243 245 / 85%),rgb(229 239 238 / 80%)) ,url(../img/a900x774.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    /* height: 450px;*/
 }
 
 .main-nav{
