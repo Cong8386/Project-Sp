@@ -37,6 +37,7 @@ body {
 	font-family: "Muli", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	background-color: #dad5d5;
 }
 
 h1,
@@ -484,7 +485,7 @@ ol {
 	height: 100%;
 	border: none;
 	font-size: 16px;
-	color: #d1d1d1;
+	color: #0a0909;
 	padding-left: 20px;
 }
 
@@ -828,7 +829,7 @@ ol {
 -----------------------*/
 
 .hero-items .single-hero-items {
-	height: 500px;
+	height: 550px;
 	padding-top: 180px;
 }
 
@@ -985,7 +986,11 @@ ol {
 -----------------------*/
 
 .banner-section {
+<<<<<<< HEAD
 	
+=======
+	margin: 0px 68px;
+>>>>>>> 1ed0e15d83af91221b5af2dc0eb4f40e9ea0cf49
 }
 
 .single-banner {
@@ -4338,11 +4343,17 @@ ol {
 }
 
 .row_a {
+<<<<<<< HEAD
 	margin-top: 20px !important;
 	max-width: 1200px;
 	margin: 0px auto;
 	background-color: #eff3f7;
 
+=======
+	margin-top: 34px !important;
+	max-width: 1200px;
+	margin: 0px auto;
+>>>>>>> 1ed0e15d83af91221b5af2dc0eb4f40e9ea0cf49
 }
 
 h2 {
@@ -4362,6 +4373,7 @@ header.header-section {
 	background-image: linear-gradient(to right top,rgb(242 243 245 / 85%),rgb(229 239 238 / 80%)) ,url(../img/a900x774.jpg);
 	background-size: cover;
 	background-attachment: fixed;
+<<<<<<< HEAD
 }
 .section-title h2 {
 	color: #e67e22;
@@ -4374,3 +4386,6 @@ header.header-section {
     
 	background-color: #eff3f7;
 }
+=======
+}
+>>>>>>> 1ed0e15d83af91221b5af2dc0eb4f40e9ea0cf49
