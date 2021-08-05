@@ -37,6 +37,7 @@ body {
 	font-family: "Muli", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	background-color: #dad5d5;
 }
 
 h1,
@@ -161,7 +162,7 @@ ol {
 }
 
 .spad {
-	padding-top: 100px;
+	padding-top: 0px;
 	padding-bottom: 100px;
 }
 
@@ -484,7 +485,7 @@ ol {
 	height: 100%;
 	border: none;
 	font-size: 16px;
-	color: #d1d1d1;
+	color: #0a0909;
 	padding-left: 20px;
 }
 
@@ -828,7 +829,7 @@ ol {
 -----------------------*/
 
 .hero-items .single-hero-items {
-	height: 500px;
+	height: 550px;
 	padding-top: 180px;
 }
 
@@ -985,7 +986,7 @@ ol {
 -----------------------*/
 
 .banner-section {
-	padding: 80px 50px;
+	margin: 0px 68px;
 }
 
 .single-banner {
@@ -4333,3 +4334,27 @@ ol {
 	}
 }
 
+.row_a {
+	margin-top: 34px !important;
+	max-width: 1200px;
+	margin: 0px auto;
+}
+
+h2 {
+	color: #e67e22;
+	text-align: center;
+	font-size: 180%;
+	font-weight: bold;
+}
+.p-long {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 22px;
+	color: #265077;
+}
+header.header-section {
+	background-image: linear-gradient(to right top,rgb(242 243 245 / 85%),rgb(229 239 238 / 80%)) ,url(../img/a900x774.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
