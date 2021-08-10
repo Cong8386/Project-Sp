@@ -1703,7 +1703,7 @@ ol {
 -----------------------*/
 
 .breadcrumb-text {
-	border-bottom: 1px solid #ebebeb;
+	border-bottom: 1px solid  #d6caca;
 	padding: 15px 0;
 }
 
@@ -2674,14 +2674,14 @@ ol {
 .cart-table table {
 	width: 100%;
 	min-width: 480px;
-	border: 1px solid #ebebeb;
+	border: 1px solid #d6caca;
 }
 
 .cart-table table tr th {
 	font-size: 16px;
 	color: #252525;
 	font-weight: 700;
-	border-bottom: 1px solid #ebebeb;
+	border-bottom: 1px solid #d6caca;
 	text-align: center;
 	padding: 18px 0 19px;
 	text-transform: uppercase;
@@ -2739,14 +2739,14 @@ ol {
 .cart-table table tr td.qua-col .pro-qty {
 	width: 123px;
 	height: 46px;
-	border: 2px solid #ebebeb;
+	border: 2px solid #d6caca;
 	padding: 0 15px;
 	float: left;
 }
 
 .cart-table table tr td.qua-col .pro-qty .qtybtn {
 	font-size: 24px;
-	color: #b2b2b2;
+	color:  #d6caca;
 	float: left;
 	line-height: 38px;
 	cursor: pointer;
@@ -2821,7 +2821,7 @@ ol {
 	width: 100%;
 	height: 46px;
 	border: 2px solid #ebebeb;
-	color: #b2b2b2;
+	color: #141111;
 	font-size: 14px;
 	padding-left: 20px;
 }
@@ -3527,7 +3527,7 @@ ol {
 }
 
 .blog-details-inner .posted-by {
-	border: 1px solid #ebebeb;
+	border: 2px solid #f8e3e3;
 	border-radius: 5px;
 	padding: 40px 65px;
 }
@@ -3561,7 +3561,7 @@ ol {
 }
 
 .blog-details-inner .leave-comment h4 {
-	color: #292f3b;
+	color: #000102ee;
 	font-weight: 700;
 	margin-bottom: 35px;
 }
@@ -3569,9 +3569,9 @@ ol {
 .blog-details-inner .leave-comment .comment-form input {
 	width: 100%;
 	font-size: 16px;
-	color: #636363;
+	color: #0c0606;
 	height: 50px;
-	border: 1px solid #ebebeb;
+	border: 2px solid #f8e3e3;
 	border-radius: 5px;
 	padding-left: 20px;
 	margin-bottom: 30px;
@@ -3583,7 +3583,7 @@ ol {
 	font-size: 16px;
 	color: #636363;
 	height: 116px;
-	border: 1px solid #ebebeb;
+	border: 2px solid #f8e3e3;
 	border-radius: 5px;
 	padding-left: 20px;
 	padding-top: 10px;
